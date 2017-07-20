@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/jsonHuGaoWei/test/blob/master/keno.ipa</string>
+					<string>https://github.com/jsonHuGaoWei/test/blob/master/WeiNiSi.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.lb.ios.keno</string>
+				<string>com.auber.weinisi</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>NewKeno</string>
+				<string>威尼斯</string>
 			</dict>
 		</dict>
 	</array>
